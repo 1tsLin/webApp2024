@@ -22,7 +22,7 @@ jobs:
           java-version: '11'
 
       - name: Change to the project directory
-        run: cd WebApp2024
+        run: cd webApp2024/webApp2024
 
       - name: Build with Maven
         run: mvn clean install
