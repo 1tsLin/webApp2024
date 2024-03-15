@@ -2,10 +2,10 @@
   xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.ESME.WebApp2024</groupId>
-  <artifactId>WebApp2024</artifactId>
+  <artifactId>webApp2024</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>WebApp2024 Maven Webapp</name>
+  <name>webApp2024 Maven Webapp</name>
   <url>http://maven.apache.org</url>
   <dependencies>
     <dependency>
@@ -16,6 +16,6 @@
     </dependency>
   </dependencies>
   <build>
-    <finalName>WebApp2024</finalName>
+    <finalName>webApp2024</finalName>
   </build>
 </project>
